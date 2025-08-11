@@ -25,6 +25,8 @@ Esse jogo é parte de trilha de desenvolvimento Javascript proposta pela [DIO](h
    cd js-yugioh-assets
 
 3. - Abra o arquivo `index.html` no navegador.
+
+Ou acesse pelo [link](https://lucasmelquiades.github.io/js-yugioh-assets/)
   
 ## 🛠️ Tecnologias utilizadas- HTML5
 
